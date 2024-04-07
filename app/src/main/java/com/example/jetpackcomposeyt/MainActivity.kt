@@ -39,6 +39,7 @@ fun App() {
     Row(
     ) {
         Greeting()
+        Greeting()
 
     }
 }
